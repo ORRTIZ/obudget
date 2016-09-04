@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <SecurityGroupPermission groupId="FULLADMIN" permissionId="obudget_ADMIN"/>
+    <SecurityGroupPermission groupId="FLEXADMIN" permissionId="obudget_CREATE"/>
+    <SecurityGroupPermission groupId="FLEXADMIN" permissionId="obudget_DELETE"/>
+    <SecurityGroupPermission groupId="FLEXADMIN" permissionId="obudget_UPDATE"/>
+    <SecurityGroupPermission groupId="FLEXADMIN" permissionId="obudget_VIEW"/>
+    <SecurityGroupPermission groupId="VIEWADMIN" permissionId="obudget_VIEW"/>
+    <SecurityGroupPermission groupId="BIZADMIN" permissionId="obudget_ADMIN"/>
+</entity-engine-xml>
