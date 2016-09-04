@@ -3,7 +3,7 @@
 <img src="http://www.orrtiz.com/image/company_logo?img_id=657&t=1472964828240" alt="orrtiz.com" />
 
 # obudget
-Budget management component for Apache OFBiz™ and ORRTIZ™.
+Budget management component for Apache OFBiz™ and ORRTIZ™ BMS.
 
 ## More information
 This is part of the disentanglement effort of the ORRTIZ team to get to components as concise possible. This is an optional component.
